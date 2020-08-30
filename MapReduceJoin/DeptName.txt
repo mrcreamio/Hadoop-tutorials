@@ -1,0 +1,4 @@
+Emp_ID	Dept_Name
+01	Finance
+02	HR
+03	Manufacturing

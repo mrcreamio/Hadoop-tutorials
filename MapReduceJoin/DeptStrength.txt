@@ -1,0 +1,4 @@
+Emp_ID	Employee_salary
+01	550
+02	1100
+03	2250
